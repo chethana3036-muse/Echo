@@ -1,0 +1,6 @@
+{
+  "name": "ECHO - Predictive Future Simulation Engine",
+  "description": "AI-powered world simulation engine that tests decisions, analyzes cascading consequences, and forecasts unfolding realities before they happen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
